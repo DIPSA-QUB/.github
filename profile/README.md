@@ -1,3 +1,4 @@
+![QUB](https://blogs.qub.ac.uk/dipsa/wp-content/uploads/sites/319/2022/07/qub.jpg)
 
 # DIPSA: Data-Intensive Parallel Systems and Algorithms
 
