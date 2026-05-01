@@ -1,4 +1,5 @@
-![QUB](https://www.qub.ac.uk/sites/media/Media945670smxx.jpg)
+![QUB](qub-Media945670smxx.jpg)
+
 
 # DIPSA: Data-Intensive Parallel Systems and Algorithms
 
